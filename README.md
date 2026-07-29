@@ -2,6 +2,8 @@
 
 This document covers categories, channel names, and the purpose of each channel only. Pinned messages and channel content will be handled separately.
 
+Full production-ready copy: [`MINIWO-DISCORD-CONTENT.md`](MINIWO-DISCORD-CONTENT.md)
+
 ## WELCOME TO MINIWO
 
 **Purpose:** Help new members understand Miniwo and find official information.
